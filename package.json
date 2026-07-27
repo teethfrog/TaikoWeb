@@ -33,5 +33,9 @@
 		"typescript": "^6.0.3",
 		"typescript-eslint": "^8.60.1",
 		"vite": "^8.0.16"
+	},
+	"dependencies": {
+		"@types/pixi.js": "^4.8.9",
+		"pixi.js": "^8.19.0"
 	}
 }
